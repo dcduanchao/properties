@@ -37,5 +37,5 @@ logging:
     com.dc.order.mapper: debug
 
 
-foo: 123456
+foo: git123456
 
